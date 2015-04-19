@@ -1,0 +1,18 @@
+<div ng-controller="MainController">
+    {{ message }}
+    <hr/>
+    <a ui-sref="main.profile">Show Profile</a> : <a ui-sref="main.contacts">Show Account</a>
+    <hr/>
+
+</div>
+<div ui-view></div>
+<!--
+<div ng-controller="headerController" ng-include="templates/header.html"></div>
+<h2>Main Page</h2>
+
+{{ message }}
+
+<div ng-controller="mainSubController">
+    {{ message }}<br/>
+    {{ parentMessage }}
+</div>-->
