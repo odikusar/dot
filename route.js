@@ -20,7 +20,7 @@ App.config(function($stateProvider, $urlRouterProvider) {
 });
 
 /*
-//Define an angular module for our app
+//Define an angular module for our app !!!master
 var App = angular.module('App', ['ngRoute']);
 
 //Define Routing for app
