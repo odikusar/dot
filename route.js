@@ -20,6 +20,7 @@ App.config(function($stateProvider, $urlRouterProvider) {
 });
 
 /*
+UI test 123
 //Define an angular module for our app test!! 123
 //var App = angular.module('App', ['ngRoute']);
 
