@@ -20,8 +20,9 @@ App.config(function($stateProvider, $urlRouterProvider) {
 });
 
 /*
-//Define an angular module for our app
-var App = angular.module('App', ['ngRoute']);
+//Define an angular module for our app !!!!
+//var App = angular.module('App', ['ngRoute']);
+
 
 //Define Routing for app
 //Uri /AddNewOrder -> template add_order.html and Controller AddOrderController
